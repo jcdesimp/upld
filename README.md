@@ -25,4 +25,4 @@ Implementation of the `upload_file` function can be easily modified to suit your
 
 Expects to run on python 3
 
-For the copy to clipboard functinality it uses a python moduled called [clipboard](https://pypi.python.org/pypi/clipboard/0.0.4) This is the only extenal dependency.
+For the copy to clipboard functinality it uses a python package called [clipboard](https://pypi.python.org/pypi/clipboard/0.0.4) This is the only extenal dependency.

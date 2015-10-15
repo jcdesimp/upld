@@ -2,7 +2,7 @@ upld.py
 =========
 
 Small python script to quickly upload a file to a remote destintion (typically a web server)
-and get the public URL for sharing a file quickly from your own server.
+and get the public URL for sharing a file quickly to your own server.
 
 ```
 usage: upld.py [-h] [-n Filename] [-c] File
@@ -19,7 +19,7 @@ optional arguments:
 
 ```
 
-Main configuration variables are located at the top of the script
+Main configuration variables are located at the top of the script.
 
 Implementation of the `upload_file` function can be easily modified to suit your needs. Right now it does a system call to scp.
 
